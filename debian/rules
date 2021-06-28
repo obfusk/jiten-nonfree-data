@@ -1,0 +1,7 @@
+#!/usr/bin/make -f
+override_dh_auto_build:
+	./build-pitch.py
+override_dh_auto_clean:
+	rm -f *.sqlite3
+%:
+	dh $@

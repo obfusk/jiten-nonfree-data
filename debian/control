@@ -1,0 +1,27 @@
+Source: jiten-nonfree-data
+Section: non-free/text
+Priority: optional
+Maintainer: Felix C. Stegerman <flx@obfusk.net>
+Build-Depends: debhelper-compat (= 13),
+               jiten,
+Standards-Version: 4.5.1
+Vcs-Git: https://salsa.debian.org/obfusk/jiten-nonfree-data.git
+Vcs-Browser: https://salsa.debian.org/obfusk/jiten-nonfree-data
+Homepage: https://github.com/obfusk/jiten
+Rules-Requires-Root: no
+
+Package: jiten-pitch
+Architecture: all
+Enhances: jiten
+Description: Pitch database for Jiten Japanese Dictionary
+ Jiten is a Japanese dictionary based on JMDict/Kanjidic
+ .
+ This package contains the non-free pitch database.
+
+Package: jiten-audio
+Architecture: all
+Enhances: jiten
+Description: Audio files for Jiten Japanese Dictionary
+ Jiten is a Japanese dictionary based on JMDict/Kanjidic
+ .
+ This package contains the non-free audio files.
