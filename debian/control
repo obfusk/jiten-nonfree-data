@@ -5,7 +5,7 @@ Maintainer: Felix C. Stegerman <flx@obfusk.net>
 Build-Depends: debhelper-compat (= 12),
                jiten,
 Standards-Version: 4.5.1
-Vcs-Git: https://salsa.debian.org/obfusk/jiten-nonfree-data.git
+Vcs-Git: https://salsa.debian.org/obfusk/jiten-nonfree-data.git -b ubuntu/focal
 Vcs-Browser: https://salsa.debian.org/obfusk/jiten-nonfree-data
 Homepage: https://github.com/obfusk/jiten
 Rules-Requires-Root: no
