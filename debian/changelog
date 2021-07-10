@@ -1,6 +1,6 @@
-jiten-nonfree-data (1.1.0-1ppa.focal1) focal; urgency=medium
+jiten-nonfree-data (1.1.0-1ppa.focal2) focal; urgency=medium
 
   * Ubuntu focal requires debhelper-compat = 12 (and -b ubuntu/focal).
   * v1.1.0 for Ubuntu focal.
 
- -- Felix C. Stegerman <flx@obfusk.net>  Thu, 08 Jul 2021 16:10:51 +0200
+ -- Felix C. Stegerman <flx@obfusk.net>  Sat, 10 Jul 2021 21:11:32 +0200
