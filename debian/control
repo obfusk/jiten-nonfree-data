@@ -13,7 +13,7 @@ Rules-Requires-Root: no
 Package: jiten-pitch
 Architecture: all
 Enhances: jiten
-Description: Pitch database for Jiten Japanese Dictionary
+Description: pitch database for Jiten Japanese Dictionary
  Jiten is a Japanese dictionary based on JMDict/Kanjidic
  .
  This package contains the non-free pitch database.
@@ -21,7 +21,7 @@ Description: Pitch database for Jiten Japanese Dictionary
 Package: jiten-audio
 Architecture: all
 Enhances: jiten
-Description: Audio files for Jiten Japanese Dictionary
+Description: audio files for Jiten Japanese Dictionary
  Jiten is a Japanese dictionary based on JMDict/Kanjidic
  .
  This package contains the non-free audio files.
