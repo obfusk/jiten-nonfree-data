@@ -1,0 +1,5 @@
+# This package only contains data files.
+jiten-nonfree-data source: debhelper-but-no-misc-depends jiten-audio
+
+# This package only contains data files.
+jiten-nonfree-data source: debhelper-but-no-misc-depends jiten-pitch
